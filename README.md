@@ -1,7 +1,8 @@
 # which_card_to_use
 ## 2024 Q3
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
-### Gas/Travel: Use Chase Freedom (5%)!!!
+### Gas: Use Chase Freedom (5%)!!!
+### Travel: Costco Citi Card (3%)
 ### Grocery Store: Discover It (5%), Amex Bluecash Everyday (3%)
 ### Online Shopping: BOA (5.25%)
 ### Restaurant: Costco Citi Card (3%).
