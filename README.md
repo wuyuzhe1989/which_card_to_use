@@ -3,7 +3,7 @@
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
 ### Gas: Use Chase Freedom (5%)!!!
 ### Travel: Costco Citi Card (3%)
-### Grocery Store: Discover It (5%), Amex Bluecash Everyday (3%)
+### Grocery Store: Amex Bluecash Prefer (6%) Discover It (5%),
 ### Online Shopping: BOA (5.25%)
 ### Restaurant: Costco Citi Card (3%).
 ### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
