@@ -1,5 +1,5 @@
 # which_card_to_use
-## 2024 Q3
+## 2024 Q4
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
 ### Gas: Costco Citi Card (4%)
 ### Travel: Costco Citi Card (3%)
@@ -9,6 +9,8 @@
 ### Target: Discover It(5%)
 ### Restaurant: Costco Citi Card (3%).
 ### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
+
+
 
 ## 2024 Q2
 ### Costco: BOA (3.5%)
