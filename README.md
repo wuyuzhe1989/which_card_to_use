@@ -1,5 +1,6 @@
 # which_card_to_use
 ## 2024 Q4
+### Amex: Apply pay. Spend $50 and more, get $5.
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
 ### Gas: Costco Citi Card (4%)
 ### Travel: Costco Citi Card (3%)
