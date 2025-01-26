@@ -1,4 +1,8 @@
 # which_card_to_use
+## Spend in UK
+### Restaurant: Costco Citi Card (3%)
+### Others: Apple Pay + Apple Card (2%), BILT (1%)
+
 ## 2025 Q1
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
 ### Gas: Costco Citi Card (4%)
