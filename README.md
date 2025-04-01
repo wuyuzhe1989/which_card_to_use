@@ -1,17 +1,17 @@
 # which_card_to_use
+## 2025 Q2
+### Costco: BOA (3.5%), If you have cashcard (5.25%)
+### Gas: Costco Citi Card (5% in costco, 4% others)
+### Travel: Costco Citi Card (3%), BILT (2%)
+### Grocery Store: Discover It (5%), Amex Bluecash Prefer (6%)
+### Online Shopping: BOA (5.25%)
+### Restaurant: Discover It (5%), BILT (3%)
+### Amazon: Chase Freedom (5%)
+### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
+
 ## Spend in UK
 ### Restaurant: Costco Citi Card (3%)
 ### Others: Apple Pay + Apple Card (2%), BILT (1%)
-
-## 2025 Q1
-### Costco: BOA (3.5%), If you have cashcard (5.25%)
-### Gas: Costco Citi Card (4%)
-### Travel: Costco Citi Card (3%), BILT (2%)
-### Grocery Store: Costco Freedom (5%) Amex Bluecash Prefer (6%)
-### Online Shopping: BOA (5.25%)
-### Restaurant: Discover It (5%), BILT (3%)
-### Home Depot: Discover It (5%)
-### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
 
 ## 2024 Q4
 ### Amex: Apply pay. Spend $50 and more, get $5.
