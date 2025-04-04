@@ -5,7 +5,7 @@
 ### Travel: Costco Citi Card (3%), BILT (2%)
 ### Grocery Store: Discover It (5%), Amex Bluecash Prefer (6%)
 ### Online Shopping: BOA (5.25%)
-### Restaurant: Discover It (5%), BILT (3%)
+### Restaurant: Costco Citi Card (3%), BILT (3%)
 ### Amazon: Chase Freedom (5%)
 ### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
 
