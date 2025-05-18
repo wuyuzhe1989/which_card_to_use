@@ -7,7 +7,7 @@
 ### Online Shopping: BOA (5.25%)
 ### Restaurant: Costco Citi Card (3%), BILT (3%)
 ### Amazon: Chase Freedom (5%)
-### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%)
+### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%), BOA (1.75%)
 
 ## Spend in UK
 ### Restaurant: Costco Citi Card (3%)
