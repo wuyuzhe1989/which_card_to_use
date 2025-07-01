@@ -1,4 +1,19 @@
 # which_card_to_use
+## 2025 Q3
+### Costco: BOA (3.5%), If you have cashcard (5.25%)
+### Gas: Chase Freedom (5%). Discover It(5%)
+### Travel: Costco Citi Card (3%), BILT (2%)
+### Car rental: BILT (primary insurance)
+### Grocery Store: Amex Bluecash Prefer (6%)
+### Online Shopping: BOA (5.25%)
+### Restaurant: BILT (3%) Costco Citi Card (3%),
+### Amazon: Chase Freedom (5%)
+### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%), BOA (1.75%)
+
+## Spend in Japan/Taiwan
+### Restaurant: Costco Citi Card (3%), BILT (2%)
+### Others: Apple Pay + Apple Card (2%), BILT (1%) 
+
 ## 2025 Q2
 ### Costco: BOA (3.5%), If you have cashcard (5.25%)
 ### Gas: Costco Citi Card (5% in costco, 4% others)
