@@ -11,7 +11,7 @@
 ### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%), BOA (1.75%)
 
 ## Spend in Japan/Taiwan
-### Restaurant: Costco Citi Card (3%), BILT (2%)
+### Restaurant: BILT (3%)
 ### Others: Apple Pay + Apple Card (2%), BILT (1%) 
 
 ## 2025 Q2
