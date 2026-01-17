@@ -1,12 +1,12 @@
 # which_card_to_use
 ## 2026 Q1
-### Costco: BOA (3.5%), If you have cashcard with Costco App (5.25%)
+### Costco: Costco App + cashcard (5.25%), BOA (3.5%),
 ### Gas: Costco Citi Card (5%)
 ### Travel: Costco Citi Card (3%), BILT (2%)
 ### Car rental: BILT (primary insurance)
 ### Grocery Store: Discover It(5%)
 ### Online Shopping: BOA (5.25%)
-### Restaurant: Chase Freedom (5%)
+### Restaurant: Chase Freedom Flex (7%), Chase Freedom (5%)
 ### Norwegian Cruise Line®: Chase Freedom (5%), 
 ### Others: Apple Pay + Apple Card (2%), Citi Double Cash (2%), BOA (1.75%)
 
