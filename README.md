@@ -1,4 +1,17 @@
 # which_card_to_use
+## 2026 Q2
+### Costco: Costco App + cashcard (5.25%), BOA (3.5%),
+### Gas: Costco Citi Card (5%)
+### Travel: Chase Travel: Chase Flex (10%) Freedom (5%) Costco Citi Card (3%), BILT (2%)
+### Amazon: Chase Flex/Freedom (5%)
+### Car rental: BILT (primary insurance)
+### Home Depot: Discover It (5%)
+### Grocery Store: Amex (3%)
+### Online Shopping: BOA (5.25%)
+### Restaurant: Discover It (5%)
+### Others: BILT (2.33%), Apple Pay + Apple Card (2%), Citi Double Cash (2%)
+
+
 ## 2026 Q1
 ### Costco: Costco App + cashcard (5.25%), BOA (3.5%),
 ### Gas: Costco Citi Card (5%)
