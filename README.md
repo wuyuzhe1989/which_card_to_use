@@ -1,6 +1,6 @@
 # which_card_to_use
 ## 2026 Q2
-### Costco: Costco App + cashcard (5.25%), BOA (3.5%),
+### Costco: Costco App + cashcard (5.25%), Paypal Debit (5%),
 ### Gas: Costco Citi Card (5%)
 ### Travel: Chase Travel: Chase Flex (10%) Freedom (5%) Costco Citi Card (3%), BILT (2%)
 ### Amazon: Chase Flex/Freedom (5%)
