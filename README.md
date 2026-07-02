@@ -1,4 +1,15 @@
 # which_card_to_use
+## 2026 Q3
+### Costco: Costco App + cashcard (5.25%), Paypal Debit (5%)
+### Gas: Chase Freedom (5%)
+### Travel: Chase Travel: Chase Flex (5%) Costco Citi Card (3%), BILT (2%)
+### Car rental: BILT (primary insurance)
+### Drug Store: Discover It (5%)
+### Grocery Store: Paypal Debit (5%)
+### Online Shopping: BOA (5.25%)
+### Restaurant: Yuzhe's BILT (3%) Costco Citi Card (3%)
+### Others: Yuzhe's BILT (2.33%), Apple Pay + Apple Card (2%), Citi Double Cash (2%)
+
 ## 2026 Q2
 ### Costco: Costco App + cashcard (5.25%), Paypal Debit (5%),
 ### Gas: Costco Citi Card (5%)
